@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  session:
+    timeout: 72000
+spring:
+      application:
+           name: test
